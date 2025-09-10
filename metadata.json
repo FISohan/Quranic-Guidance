@@ -1,0 +1,5 @@
+{
+  "name": "Quranic Guidance",
+  "description": "An application that suggests a Quranic verse based on your current emotional state, providing solace and guidance.",
+  "requestFramePermissions": []
+}

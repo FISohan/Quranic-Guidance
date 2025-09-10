@@ -1,0 +1,16 @@
+export const EMOTIONS: string[] = [
+  'Happiness',
+  'Sadness',
+  'Anger',
+  'Fear',
+  'Gratitude',
+  'Hope',
+  'Anxiety',
+  'Patience',
+  'Loneliness',
+  'Stress',
+  'Confusion',
+  'Guilt',
+  'Strength',
+  'Forgiveness',
+];
